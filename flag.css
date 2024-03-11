@@ -1,0 +1,14 @@
+div{
+    height: 33vh;
+}
+#orange{
+    background-color: orange;
+}
+#white{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+#green{
+    background-color: green;
+}
